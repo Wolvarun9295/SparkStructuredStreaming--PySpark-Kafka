@@ -2,6 +2,7 @@
 
 - Generate your access keys from [Twitter Dev site](apps.twitter.com)
 - Add credentials in the tweetConfig.py file
+- Start the Zookeeper server on terminal followed by Kafka server
 - Run tweetListener.py file
 - Run tweetAnalyzer.py
 
