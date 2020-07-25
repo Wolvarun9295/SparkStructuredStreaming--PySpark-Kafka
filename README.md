@@ -7,8 +7,8 @@
 
 ## Output will be diplayed as follows
 
-- Running tweetListener.py will generate the following output:
+- Running tweetListener.py will fetch the tweets in real-time:
 <img src=Output/tweetListener.png height=”100” >
 
-- Running tweetAnalyzer.py will generate the following output:
+- Running tweetAnalyzer.py will generate the following output from time to time in batches:
 <img src= Output/tweetAnalyzer.png height=”100” >
