@@ -1,6 +1,6 @@
 ﻿## Steps to run Spark Structured Streaming
 
-- Generate your access keys from [Twitter Dev site](apps.twitter.com).
+- Generate your access keys from [Twitter Dev site](https://developer.twitter.com/apps).
 - Add credentials in the **tweetConfig.py** file.
 - Start the **Zookeeper** server on terminal followed by **Kafka** server.
 - Run **tweetListener.py** file.
